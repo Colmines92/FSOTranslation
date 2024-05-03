@@ -1,0 +1,68 @@
+INDEX,CN,EN,CNTR,JAP,KOR,TH
+用于游戏登录之前的文本显示,简体中文,英文,中文繁体,日本語,韩文,泰文
+OK,确认,OK,確認,OK,확인,ยืนยัน
+CANCEL,取消,CANCEL,取消,キャンセル,취소,ยกเลิก
+RETRY,重试,RETRY,重試,リトライ,재시도,อีกครั้ง
+TipsTitle,提示,TIPS,提示,Tips,알림,แจ้งเตือน
+AppVersion,游戏版本:,App:{sp},遊戲版本：,AppVer:,게임 버전:,App:
+ResVersion,资源版本:,Res:{sp},資源版本：,ResVer:,소스 버전:,Res:
+NO_NET_RETRY,"当前没有网络,是否重试？","No network, retry?",目前沒有網路，是否重試？,現在ネットワークに接続していません。リトライしますか？,네트워크에 연결되어 있지 않습니다. 재시도하시겠습니까?,ไม่พบเครือข่าย กรุณาลองใหม่?
+NO_NET,当前没有网络！,No Network,目前沒有網路！,現在ネットワークに接続していません！,네트워크에 연결되어 있지 않습니다!,ไม่พบเครือข่าย
+NET_CONNECT_FAIL,网络通讯失败！,Network Failed,網路連接失敗！,ネットワーク通信に失敗しました！,네트워크 연결이 끊어졌습니다!,การสื่อสารผ่านเครือข่ายล้มเหลว!
+START_DOWNLOAD,下载中！,Downloading,下載中！,ダウンロード中！,다운로드 중!,กำลังดาวน์โหลด
+DOWNLOAD_COMPLETE,下载完成！,Download Complete,下載完成！,ダウンロード完了！,다운로드가 완료되었습니다!,ดาวน์โหลดสำเร็จ
+DOWNLOAD_CANCEL,下载取消！,Download Canceled,下載取消！,ダウンロード取消！,다운로드가 취소되었습니다!,ยกเลิกดาวน์โหลด
+MD5_CHECK_START,md5校验开始,Md5 Check Started,md5驗證開始,md5チェック開始,md5 검증 시작,md5 เริ่มการตรวจสอบ
+MD5_CHECK_END,md5校验完成,Md5 Check Completed,md5驗證完成,md5チェック完了,md5 검증 완료,md5 ตรวจสอบเสร็จสิ้น
+CHECK_UPDATE,检测更新中,Checking for Updates,檢查更新中,アップデートチェック中,업데이트 확인 중,กำลังตรวจสอบการอัพเดท
+AppVersionFromChannelIsTooLow,游戏版本过低，请去平台更新！,Your app version is out of date. Please update!,遊戲版本過舊，請前往平台更新！,ゲームバージョンが古すぎます。アプリを更新してください！,버전이 너무 낮습니다. 스토어로 가서 업데이트해주세요!,เวอร์ชั่นของเกมต่ำเกินไป โปรดไปอัพเดทที่แพลตฟอร์ม!
+GLUpgrade_1,"发现新版本, 需要进行更新！！","New version found, please update.",發現新版本，需要進行更新！！,新しいバージョンが見つかりました。更新してください！！,새로운 버전으로의 업데이트가 필요합니다!!,มีเวอร์ชั่นใหม่ที่ต้องอัพเดท!!
+GLUpgrade_2,"发现新版本, 当前不处于Wifi环境下, 是否进行更新！","New version found, confirm to update without Wi-Fi?",發現新版本，目前未連接Wifi，是否進行更新？,新しいバージョンが見つかりました。現在Wi-Fiに接続していませんが、更新しますか？,새로운 버전으로의 업데이트가 필요합니다. 지금은 WiFi 환경이 아닙니다. 그래도 업데이트하시겠습니까?,ค้นพบเวอร์ชั่นใหม่ โปรดเปลี่ยนเป็น WI-FI เพื่ออัพเดท!
+GLUpgrade_3,内部错误（访问升级接口httpCode非200）！,Internal error(access upgrade interface httpCode not 200)!,內部錯誤（連接升級介面httpCode非200）！,内部エラー(アクセスアップグレードインターフェースhttpCodeは200ではありません)！,시스템 오류(httpCode not 200)!,ข้อผิดพลาดภายใน (การเข้าถึงอินเตอร์เฟซอัพเกรด httpCode ที่ไม่ใช่ 200）
+GLUpgrade_4,内部错误（访问升级接口网络出错）！,Internal error(access upgrade interface net error)!,內部錯誤（連接升級介面網路錯誤）！,内部エラー(アクセスアップグレードインターフェースネットワークエラー)！,시스템 오류(네트워크 오류)!,ข้อผิดพลาดภายใน (การเข้าถึงอินเตอร์เฟซอัพเกรดอินเตอร์เน็ตเกิดข้อผิดพลาด）
+GLUpgrade_5,内部错误（JSON格式转换出错）！,Internal error(JSON parse error)!,內部錯誤（JSON格式轉換錯誤）！,内部エラー(JSONフォーマット変換エラー)！,시스템 오류(JSON형식 변환 오류)!,ข้อผิดพลาดภายใน (การแปลงรูปแบบJSONผิดพลาด)
+GLUpgrade_6,获取渠道打包信息失败！,Get bundle info of channel failed!,獲取通路封包資訊失敗！,ルートパッケージ情報の取得に失敗しました！,경로 정보 획득 실패!,การรับช่องชุดข้อมูลล้มเหลว
+GLUpgrade_7,手机SD卡不可用(需要更新才检测)！,SDCard is not available!,手機SD卡不可用（需要更新才檢測）！,端末のSDカードが使用できません(更新時にチェック),디바이스의 SD카드를 사용할 수 없습니다(업데이트가 필요합니다)!,การ์ดSDมือถือไม่สามารถใช้งาน (ต้องอัพเดทจึงจะตรวจสอบได้)
+GLUpgrade_M1,获取APK信息失败！,Failed to get local apk info!,獲取APK資訊失敗！,APK情報の取得に失敗しました！,APK 정보 획득 실패!,การรับข้อมูลAPKล้มเหลว
+GLUpgrade_M2,无法获取服务器版本数据！,Cannot get version data from server!,無法獲取伺服器版本資料！,サーバーバージョンのデータを取得できません！,서버 버전 데이터를 불러올 수 없습니다!,ไม่สามารถรับข้อมูลเวอร์ชั่นเซิร์ฟเวอร์ได้
+GLUpgrade_M3,获取服务器版本数据时发生异常！,Error occurred when getting version data from server!,獲取伺服器版本資料時發生異常！,サーバーバージョンのデータ取得時にエラーが発生しました！,서버 버전 데이터를 불러올 때 오류가 발생했습니다!,เกิดข้อผิดพลาดขณะรับข้อมูลเวอร์ชั่นจากเซิร์ฟเวอร์
+GLUpgrade_M4,获取响应数据包异常！,Error occurred when getting data!,獲取響應資料封包異常！,応答パッケージ取得エラー,데이터를 불러올 때 오류가 발생했습니다!,เกิดข้อผิดพลาดขณะรับข้อมูล
+GLUpgrade_M5,服务器版本数据内容解析失败！,Parse version data from server failed!,伺服器版本資料內容解析失敗！,サーバーバージョンのデータ内容解析に失敗しました！,서버 버전 데이터 파싱 실패!,การแตกไฟล์ข้อมูลเวอร์ชั่นเซิร์ฟเวอร์ล้มเหลว
+GLUpgrade_M6,解析服务器版本数据时发生异常！,Error occurred when parsing version data from server!,解析伺服器版本資料時發生異常！,サーバーバージョンのデータ解析時にエラーが発生しました！,서버 버전 데이터 파싱 중 오류가 발생했습니다!,เกิดข้อผิดพลาดขณะแตกไฟล์ข้อมูลเวอร์ชั่นเซิร์ฟเวอร์
+GLUpgrade_M7,手机SD卡不可用！,SDCard is not available!,手機SD卡不可用！,端末のSDカードは使えません！,디바이스의 SD카드를 사용할 수 없습니다!,การ์ดSDมือถือไม่สามารถใช้งานได้
+GLUpgrade_DefaultError,未知错误，错误ID是,Unknown error，error ID is,未知錯誤，錯誤ID為,不明なエラー、エラーID：,"알 수 없는 오류, 오류 ID는",ไม่ทราบข้อผิดพลาด Idที่ผิดพลาดคือ
+E_CHK_VER_FAIL,版本检查初始化失败,Start version checking failed.,版本檢查初始化失敗,バージョンチェックの初期化に失敗しました,버전 검사 초기화 실패,การตรวจสอบเวอร์ชั่นเริ่มต้นล้มเหลว
+E_UPD_META_FAIL,更新信息初始化失败,Update metafile failed.,更新訊息初始化失敗,更新情報の初期化に失敗しました,업데이트 정보 초기화 실패,อัพเดทข้อมูลเริ่มต้นล้มเหลว
+E_UPD_RES_FAIL,更新信息失败,Update resource file failed.,更新訊息失敗,情報の更新に失敗しました,업데이트 정보 실패,อัพเดทข้อมูลลัมเหลว
+E_DLD_FILE_FAIL,下载任务失败,Download file failed.,下載任務失敗,ダウンロードに失敗しました,다운로드 임무 실패,ดาวน์โหลดเควสล้มเหลว
+E_USER_CANCEL,用户取消了更新操作,User canceled update.,用戶取消了更新操作,ユーザーが更新操作をキャンセルしました,사용자가 업데이트를 취소했습니다,ผู้ใช้ยกเลิกการดำเนินการอัพเดทแล้ว
+E_MERGE_FAIL,版本信息无法保存到本地,Merge file error,版本訊息無法保存到本機,バージョン情報をローカルに保存できませんでした,버전 정보를 저장할 수 없습니다,ไม่สามารถบันทึกข้อมูลเวอร์ชั่นลงเครื่องได้
+E_UNKOWN,未知错误：,Unknown error:{sp},未知錯誤：,不明なエラー：,알 수 없는 오류:,ไม่ทราบข้อผิดพลาด:
+AutoUpdate_Updating,更新中…,Updating...,更新中…,更新中…,업데이트 중...,กำลังอัพเดท…
+AutoUpdate_Error,"错误ID: {0}, 错误信息: {1}","Error id is: {0}, error msg is: {1}","錯誤ID: {0}, 錯誤訊息: {1}",エラーID: {0}、エラー情報: {1},"오류 ID: {0}, 오류 정보: {1}",IDผิดพลาด:{0} ข้อมูลผิดพลาด:{1}
+UnzipInstall_CheckVersion,正在比较版本号…,Checking version...,正在確認版本資訊…,バージョンを照合中…,버전 확인 중...,กำลังตรวจสอบเวอร์ชั่น...
+UnzipInstall_MergingApkData,正在合并数据…,Merging version...,正在合併資料…,データ統合中…,데이터 병합 중...,กำลังรวบรวมข้อมูล...
+UnzipInstall_ReadVersionFileFail,读取版本文件失败！,Read version file failed!,讀取版本檔案失敗！,バージョンファイルの読み込みに失敗しました！,버전 파일 읽기 실패!,การอ่านไฟล์เวอร์ชั่นล้มเหลว
+UnzipInstall_ReleasingApkData,正在释放安装包数据…,Releasing data from apk...,正在釋放安裝封包資料…,インストールパッケージを展開中…,설치 데이터 압축 해제 중...,กำลังแตกไฟล์ข้อมูลติดตั้ง...
+UnzipInstall_ReadFirstPackFail,读取首包配置文件失败！,Read first pack file failed!,讀取首包配置檔案失敗！,設定ファイルの読み込みに失敗しました！,구성 파일 읽기 실패!,การอ่านไฟล์ชุดแรกล้มเหลว
+UnzipPatch_Releasing,文件解压中…,Decompressing Files,檔案解壓縮中…,ファイル解凍中…,파일 압축 해제 중...,กำลังแตกไฟล์...
+UnzipPatch_Releasing_Over,文件解压完成,Decompression Complete,檔案解壓縮完成,ファイルの解凍が完了しました,파일 압축 해제 완료,การแตกไฟล์สำเร็จ
+PanelGHomeInitalizeError,G家初始化失败：,GHome init fail:{sp},G家初始化失敗：,G-Homeの初期化に失敗：,G Home 초기화 실패:,ค่าเริ่มต้นGล้มเหลว:
+GetHostInfoFileFailed,网络连接失败,Network Failed,網路連接失敗,ネットワーク接続に失敗しました,네트워크 연결 실패,เชื่อมต่อเครือข่ายล้มเหลว
+AppServerBlock,你已经被封停{0}分钟，请在封停之后重新登录！,"You have been blocked for {0} minutes, please re-login when available.",你已經被封鎖{0}分鐘，請在封鎖之後重新登入！,{0}分間ログインが禁止されました。しばらくしてから再度ログインしてください！,{0}분 동안 블록되었습니다. 블록이 끝난 후 다시 시도해주세요!,คุณถูกบล็อค{0}นาที เมื่อปลดบล็อคแล้วกรุณาล็อกอินอีกครั้ง
+AppServerAccountBlock,您账号已经被封停！,Your account has been blocked!,您帳號已經被封鎖！,このアカウントはブロックされています！,계정이 정지되었습니다!,บัญชีของคุณถูกบล็อคแล้ว
+AppNeedReboot,游戏需要重启!,Please restart the app.,遊戲需要重新啟動！,ゲームを再起動してください！,게임을 재시작해주세요!,กรุณารีสตาร์ทเกม
+AccountLoginByOther,帐号在其他地点登录,Account logged in somewhere else.,帳號在其他地點登入,アカウントが他の場所でログインされました,계정이 다른 곳에서 접속되었습니다,บัญชีล็อกอินในสถานที่อื่น
+MustRebootAppAndUpdate,游戏需要重启后更新,Please restart the app and update.,遊戲需要重新啟動後更新,ゲームを再起動して更新してください,게임 재시작 후 업데이트가 필요합니다,เมื่อรีสตาร์ทเกมจะทำการอัพเดท
+IOSForceUpdate,游戏上架新版本\n请等待AppStore更新完毕后前去更新,"New version found, please update.",遊戲上架新版本\n請等待AppStore更新完畢後前往更新,新バージョンがあります\nAppStoreの更新完了後にアップデートしてください,새로운 버전이 있습니다\nAppStore 업데이트가 끝난 후 게임을 업데이트해주세요,เวอร์ชั่นใหม่มาแล้ว\nกรุณารอAppStoreอัพเดทเรียบร้อยแล้วจึงไปอัพเดท
+YES,是,YES,是,はい,예,ใช่
+NO,否,NO,否,いいえ,아니오,ใม่
+SuggestToUpgradeAppUnderWifi,建议切换到wifi网络下进行更新！,It is recommended to switch to wifi network for update!,建議切換到wifi網路下進行更新！,Wi-Fi環境下でのアップデートをお勧めします。,와이파이 사용을 권장합니다.,แนะนำให้เปลี่ยนเป็นเครือข่าย wifi เพื่ออัพเดทใหม่!
+SuggestToUpdateResUnderWifi,建议切换到wifi网络下进行更新！,It is recommended to switch to wifi network for update!,建議切換到wifi網路下進行更新！,Wi-Fi環境下でのアップデートをお勧めします。,와이파이 사용을 권장합니다.,แนะนำให้เปลี่ยนเป็นเครือข่าย wifi เพื่ออัพเดทใหม่!
+EndUpdate_Loading,载入数据中…,Loading...,載入數據中…,ロード中…,로딩 중...,กำลังโหลดข้อมูล…
+OldServer_Info,登陆过的旧世界服务器,,,,,
+NewServer_Info,推荐服务器,,,,,
+Compensate_Title,监督者礼物,,,,,
+Compensate_OutInfo_Top,您好，监督者：\n欢迎您选择2.0世界服务器，感谢您对《辐射避难所ol》长久以来的支持，由于您在旧世界服务器中的杰出贡献，我们会根据您的贡献给予您以下奖励：,,,,,
+Compensate_OutInfo_Bottom,账号等级5级时，您可在避难所领取监督者礼物，本次奖励为一次性奖励，每个账号只可领取一次。,,,,,
+__NONE__,空!,None!,空！,空です！,비어있습니다!,ว่าง!
